@@ -1,9 +1,9 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import os
 import base64
-import seaborn as sns
+#import seaborn as sns
 from sklearn.model_selection import train_test_split
 from matplotlib.colors import ListedColormap
 from mpl_toolkits.mplot3d import Axes3D
